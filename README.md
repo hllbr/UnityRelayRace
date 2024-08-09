@@ -41,3 +41,6 @@ In **RelayRaceRunner**, three objects participate in a relay race. The Cube star
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/RelayRaceRunner.git
+
+[screencast-nimbusweb_me-2024_08_10-01_21_25.webm](https://github.com/user-attachments/assets/53b96a07-ebfb-410b-81ec-ac03b7135b08)
+
