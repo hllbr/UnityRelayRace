@@ -35,7 +35,11 @@ In **RelayRaceRunner**, three objects participate in a relay race. The Cube star
 
 - **Unity Engine**: The primary game engine used to develop and run the game.
 - **C#**: The programming language used to script the game’s mechanics and logic.
+  
+## Version
 
+- **Unity Version**: This project was developed using Unity version **2022.3.32f1**.
+  
 ## Installation and Setup
 
 1. Clone the repository:
